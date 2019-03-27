@@ -1,0 +1,17 @@
+D:\tdd-DanielUlises9\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\tdd-DanielUlises9\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\tdd-DanielUlises9\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\tdd-DanielUlises9\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.Pruebas.deps.json
+D:\tdd-DanielUlises9\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.Pruebas.runtimeconfig.json
+D:\tdd-DanielUlises9\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.Pruebas.runtimeconfig.dev.json
+D:\tdd-DanielUlises9\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.Pruebas.dll
+D:\tdd-DanielUlises9\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.Pruebas.pdb
+D:\tdd-DanielUlises9\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.dll
+D:\tdd-DanielUlises9\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.pdb
+D:\tdd-DanielUlises9\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.csprojAssemblyReference.cache
+D:\tdd-DanielUlises9\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.csproj.CoreCompileInputs.cache
+D:\tdd-DanielUlises9\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.AssemblyInfoInputs.cache
+D:\tdd-DanielUlises9\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.AssemblyInfo.cs
+D:\tdd-DanielUlises9\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.csproj.CopyComplete
+D:\tdd-DanielUlises9\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.dll
+D:\tdd-DanielUlises9\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.pdb
